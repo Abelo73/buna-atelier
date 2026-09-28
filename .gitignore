@@ -1,0 +1,6 @@
+# Environment files (keep the example)
+.env
+.env.*
+!.env.example
+
+.DS_Store
